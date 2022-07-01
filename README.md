@@ -1,1 +1,1 @@
-# demo-silver-horse
+# Silver-Horse 
